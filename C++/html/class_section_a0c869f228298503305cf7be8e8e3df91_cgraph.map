@@ -1,0 +1,5 @@
+<map id="Section::gerer" name="Section::gerer">
+<area shape="rect" id="node2" href="$class_section.html#aa032f59ebbe6ade8bfb9a88eb1bf9240" title="ajout d&#39;un élève dans une section Permet à l&#39;utilisateur d&#39;ajouter les valeurs de l&#39;élève dans la sec..." alt="" coords="171,5,318,32"/>
+<area shape="rect" id="node4" href="$class_section.html#a68d0635c31799fcaa45d6629653296de" title="Affiche les élèves présent dans la section précisée Permet à l&#39;utilisateur d&#39;afficher dans la section..." alt="" coords="163,56,327,83"/>
+<area shape="rect" id="node3" href="$class_eleves.html#ae47e80b391d72d89e4925c15aa74e077" title="saisie d&#39;un élève Permet à l&#39;utilisateur de saisir les valeurs de l&#39;élève " alt="" coords="375,5,533,32"/>
+</map>

@@ -1,0 +1,145 @@
+\hypertarget{main_8cpp}{\section{main.\+cpp File Reference}
+\label{main_8cpp}\index{main.\+cpp@{main.\+cpp}}
+}
+{\ttfamily \#include $<$string$>$}\\*
+{\ttfamily \#include $<$iostream$>$}\\*
+{\ttfamily \#include $<$vector$>$}\\*
+{\ttfamily \#include \char`\"{}eleves.\+h\char`\"{}}\\*
+{\ttfamily \#include \char`\"{}Matiere.\+h\char`\"{}}\\*
+{\ttfamily \#include \char`\"{}Notes.\+h\char`\"{}}\\*
+{\ttfamily \#include \char`\"{}Section.\+h\char`\"{}}\\*
+{\ttfamily \#include \char`\"{}Evaluations.\+h\char`\"{}}\\*
+Include dependency graph for main.\+cpp\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{main_8cpp__incl}
+\end{center}
+\end{figure}
+\subsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \hyperlink{main_8cpp_a3f7c5d1e906b11a9eeb8bec6f4b36a10}{affiche\+Section} (vector$<$ \hyperlink{class_section}{Section} $>$ \&le\+Vecteur)
+\begin{DoxyCompactList}\small\item\em Affiche la liste des sections Permet d'afficher les sections créées a l'utilisateur. \end{DoxyCompactList}\item 
+\hyperlink{class_section}{Section} $\ast$ \hyperlink{main_8cpp_ab4da989a5a85c62e58b2aaaa560d541c}{section\+Selector} (vector$<$ \hyperlink{class_section}{Section} $>$ \&le\+Vecteur)
+\begin{DoxyCompactList}\small\item\em Sélection de la section Permet à l'utilisateur de choisir la section désirée à l'aide d'un numéro. \end{DoxyCompactList}\item 
+int \hyperlink{main_8cpp_ae66f6b31b5ad750f1fe042a706a4e3d4}{main} ()
+\end{DoxyCompactItemize}
+\subsection*{Variables}
+\begin{DoxyCompactItemize}
+\item 
+vector$<$ \hyperlink{class_section}{Section} $>$ \hyperlink{main_8cpp_a413e97ee350888cda4f7b6a1f2579249}{vect\+Sections}
+\item 
+vector$<$ \hyperlink{class_matiere}{Matiere} $>$ \hyperlink{main_8cpp_ac04b2ba8d7488df23bc7f9122d15434d}{vect\+Mat}
+\item 
+vector$<$ \hyperlink{class_evaluations}{Evaluations} $>$ \hyperlink{main_8cpp_aa8b35d7b93c19ac3a2cdc1900eac6c21}{vect\+Eval}
+\item 
+vector$<$ \hyperlink{class_eleves}{Eleves} $>$ \hyperlink{main_8cpp_a892cd6fca64a12f2ea86dced68c1b8fa}{vect\+Eleves}
+\end{DoxyCompactItemize}
+
+
+\subsection{Function Documentation}
+\hypertarget{main_8cpp_a3f7c5d1e906b11a9eeb8bec6f4b36a10}{\index{main.\+cpp@{main.\+cpp}!affiche\+Section@{affiche\+Section}}
+\index{affiche\+Section@{affiche\+Section}!main.\+cpp@{main.\+cpp}}
+\subsubsection[{affiche\+Section}]{\setlength{\rightskip}{0pt plus 5cm}void affiche\+Section (
+\begin{DoxyParamCaption}
+\item[{vector$<$ {\bf Section} $>$ \&}]{le\+Vecteur}
+\end{DoxyParamCaption}
+)}}\label{main_8cpp_a3f7c5d1e906b11a9eeb8bec6f4b36a10}
+
+
+Affiche la liste des sections Permet d'afficher les sections créées a l'utilisateur. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em le\+Vecteur} & reçoit nb\+Section \\
+\hline
+\end{DoxyParams}
+
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{main_8cpp_a3f7c5d1e906b11a9eeb8bec6f4b36a10_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{main_8cpp_ae66f6b31b5ad750f1fe042a706a4e3d4}{\index{main.\+cpp@{main.\+cpp}!main@{main}}
+\index{main@{main}!main.\+cpp@{main.\+cpp}}
+\subsubsection[{main}]{\setlength{\rightskip}{0pt plus 5cm}int main (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}}\label{main_8cpp_ae66f6b31b5ad750f1fe042a706a4e3d4}
+
+
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{main_8cpp_ae66f6b31b5ad750f1fe042a706a4e3d4_cgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{main_8cpp_ab4da989a5a85c62e58b2aaaa560d541c}{\index{main.\+cpp@{main.\+cpp}!section\+Selector@{section\+Selector}}
+\index{section\+Selector@{section\+Selector}!main.\+cpp@{main.\+cpp}}
+\subsubsection[{section\+Selector}]{\setlength{\rightskip}{0pt plus 5cm}{\bf Section}$\ast$ section\+Selector (
+\begin{DoxyParamCaption}
+\item[{vector$<$ {\bf Section} $>$ \&}]{le\+Vecteur}
+\end{DoxyParamCaption}
+)}}\label{main_8cpp_ab4da989a5a85c62e58b2aaaa560d541c}
+
+
+Sélection de la section Permet à l'utilisateur de choisir la section désirée à l'aide d'un numéro. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em le\+Vecteur} & reçoit nb\+Section \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+la valeur de le\+Vecteur 
+\end{DoxyReturn}
+
+
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=288pt]{main_8cpp_ab4da989a5a85c62e58b2aaaa560d541c_cgraph}
+\end{center}
+\end{figure}
+
+
+
+
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=244pt]{main_8cpp_ab4da989a5a85c62e58b2aaaa560d541c_icgraph}
+\end{center}
+\end{figure}
+
+
+
+
+\subsection{Variable Documentation}
+\hypertarget{main_8cpp_a892cd6fca64a12f2ea86dced68c1b8fa}{\index{main.\+cpp@{main.\+cpp}!vect\+Eleves@{vect\+Eleves}}
+\index{vect\+Eleves@{vect\+Eleves}!main.\+cpp@{main.\+cpp}}
+\subsubsection[{vect\+Eleves}]{\setlength{\rightskip}{0pt plus 5cm}vector$<${\bf Eleves}$>$ vect\+Eleves}}\label{main_8cpp_a892cd6fca64a12f2ea86dced68c1b8fa}
+\hypertarget{main_8cpp_aa8b35d7b93c19ac3a2cdc1900eac6c21}{\index{main.\+cpp@{main.\+cpp}!vect\+Eval@{vect\+Eval}}
+\index{vect\+Eval@{vect\+Eval}!main.\+cpp@{main.\+cpp}}
+\subsubsection[{vect\+Eval}]{\setlength{\rightskip}{0pt plus 5cm}vector$<${\bf Evaluations}$>$ vect\+Eval}}\label{main_8cpp_aa8b35d7b93c19ac3a2cdc1900eac6c21}
+\hypertarget{main_8cpp_ac04b2ba8d7488df23bc7f9122d15434d}{\index{main.\+cpp@{main.\+cpp}!vect\+Mat@{vect\+Mat}}
+\index{vect\+Mat@{vect\+Mat}!main.\+cpp@{main.\+cpp}}
+\subsubsection[{vect\+Mat}]{\setlength{\rightskip}{0pt plus 5cm}vector$<${\bf Matiere}$>$ vect\+Mat}}\label{main_8cpp_ac04b2ba8d7488df23bc7f9122d15434d}
+\hypertarget{main_8cpp_a413e97ee350888cda4f7b6a1f2579249}{\index{main.\+cpp@{main.\+cpp}!vect\+Sections@{vect\+Sections}}
+\index{vect\+Sections@{vect\+Sections}!main.\+cpp@{main.\+cpp}}
+\subsubsection[{vect\+Sections}]{\setlength{\rightskip}{0pt plus 5cm}vector$<${\bf Section}$>$ vect\+Sections}}\label{main_8cpp_a413e97ee350888cda4f7b6a1f2579249}

@@ -1,0 +1,9 @@
+insert into pointRelaisParUtilisateur values(2,1);
+insert into pointRelaisParUtilisateur values(1000,2);
+insert into pointRelaisParUtilisateur values(5,4);
+insert into pointRelaisParUtilisateur values(2,4);
+insert into pointRelaisParUtilisateur values(2,3);
+insert into pointRelaisParUtilisateur values(3,1);
+
+
+

@@ -1,0 +1,2 @@
+insert into utilisateur values (2,"Raymond","Martin","0654859678","hey","05000","Gap","leeroy.martin.jenkins@gmail.com","Martin",'','',1,now());
+

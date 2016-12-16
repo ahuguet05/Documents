@@ -1,0 +1,4 @@
+usr/share/dbgestioncontacts
+usr/share/dbconfig-common/data/dbgestioncontacts/install
+usr/share/dbconfig-common/data/dbgestioncontacts/upgrade/mysql
+etc/dbgestioncontacts

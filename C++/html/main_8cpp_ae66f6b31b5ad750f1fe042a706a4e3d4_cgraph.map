@@ -1,0 +1,9 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$class_section.html#adc7f73c7e76c73de88d8c59170a67383" title="Initialise la valeur de NomSection. " alt="" coords="105,5,276,32"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#ab4da989a5a85c62e58b2aaaa560d541c" title="Sélection de la section Permet à l&#39;utilisateur de choisir la section désirée à l&#39;aide d&#39;un numéro..." alt="" coords="131,56,250,83"/>
+<area shape="rect" id="node5" href="$class_section.html#a0c869f228298503305cf7be8e8e3df91" title="gérer une section Permet à l&#39;utilisateur de gérer la section choisie, il a le choix entre: ajouter un..." alt="" coords="136,107,245,133"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a3f7c5d1e906b11a9eeb8bec6f4b36a10" title="Affiche la liste des sections Permet d&#39;afficher les sections créées a l&#39;utilisateur. " alt="" coords="351,56,461,83"/>
+<area shape="rect" id="node6" href="$class_section.html#aa032f59ebbe6ade8bfb9a88eb1bf9240" title="ajout d&#39;un élève dans une section Permet à l&#39;utilisateur d&#39;ajouter les valeurs de l&#39;élève dans la sec..." alt="" coords="333,107,479,133"/>
+<area shape="rect" id="node8" href="$class_section.html#a68d0635c31799fcaa45d6629653296de" title="Affiche les élèves présent dans la section précisée Permet à l&#39;utilisateur d&#39;afficher dans la section..." alt="" coords="324,157,488,184"/>
+<area shape="rect" id="node7" href="$class_eleves.html#ae47e80b391d72d89e4925c15aa74e077" title="saisie d&#39;un élève Permet à l&#39;utilisateur de saisir les valeurs de l&#39;élève " alt="" coords="536,107,695,133"/>
+</map>

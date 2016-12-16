@@ -1,0 +1,10 @@
+insert into utilisateur values (2,"Raymond","Martin","0654859678","hey","05000","Gap","leeroy.martin.jenkins@gmail.com","Martin",'','',1,now());
+
+insert into utilisateur values (3,"C","Jessy","0654859678","hey","05000","Gap","jessy.canto@laposte.net","Pant",'','',1,now());
+
+insert into utilisateur values (4,"D","J","0654859678","hey","05000","Gap","jesdu05@live.fr","azerty",'','',1,now());
+
+insert into utilisateur values (5,"E","F","0654859678","hey","05000","Gap","jessy05000@live.fr","ezzz",'','',1,now());
+
+
+

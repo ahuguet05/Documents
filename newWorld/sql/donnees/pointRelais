@@ -1,0 +1,4 @@
+insert into pointRelais values(2,"Bel","Commerce","Robert","Michel","05000","GAP","","","0492564578","");
+insert into pointRelais values(3,"Elki","Commerce","Jean","Michel","05000","GAP","","","0492564578","");
+insert into pointRelais values(4,"Grop","Commerce","Yves","Michel","05000","GAP","","","0492564578","");
+

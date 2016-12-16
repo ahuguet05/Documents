@@ -1,0 +1,5 @@
+insert into produit values (1,"Carotte Nantaise",1,1,"~/public_html/newWorld/images/carotteNantaise.jpg");
+insert into produit values (2,"Carotte Touchon",1,1,"~/public_html/newWorld/images/carotteTouchon.jpg");
+insert into produit values (3,"Coeur de boeuf",2,3,"~/public_html/newWorld/images/coeurBoeuf.jpg");
+insert into produit values (4,"Truite fario",3,4,"~/public_html/newWorld/images/truiteFario.jpg");
+insert into produit values (5,"Daurade royale",5,4,"~/public_html/newWorld/images/dauradeRoyale.jpg");

@@ -1,0 +1,4 @@
+insert into rayon values (1,"Legume");
+insert into rayon values (2,"Fruit");
+insert into rayon values (3,"Viande");
+insert into rayon values (4,"Poisson");

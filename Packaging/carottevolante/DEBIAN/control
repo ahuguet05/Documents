@@ -1,0 +1,8 @@
+Package:carotte
+Version:1.0
+Section:base
+Priority:optional
+Architecture:all
+Depends:bash
+Maintainer:huguet<alexishuguet05@gmail.com>
+Description:Affiche un truc

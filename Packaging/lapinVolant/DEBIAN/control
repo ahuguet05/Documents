@@ -1,0 +1,8 @@
+Package:lapin
+Version:1.0
+Section:base
+Priority:optional
+Architecture:all
+Depends:bash
+Maintainer:huguet<alexishuguet05@gmail.com>
+Description:Pour contrôler le nombre de carotte volante

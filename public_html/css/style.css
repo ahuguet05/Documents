@@ -1,0 +1,120 @@
+
+body{
+margin:0px;
+       background-image:url("earth.png");
+	background-repeat:no-repeat;
+	background-position:center;
+	
+	
+	
+}
+h1{
+display:inline;
+color:white;
+      text-shadow: 3px 5px 0px rgb(0,0,0);
+}
+
+#header {
+height:3%;
+       background-color:#2E2E2E;
+color:white;
+      text-align:right;
+      padding-right:250px;
+      padding-top:3px;
+}
+#menu-bar{
+height:5%;
+       background-image:linear-gradient(grey, #1C1C1C);
+}
+#recherche{
+	background-image:url("images/barre.png");
+height: 22px;
+width: 220px;
+float: right;
+       margin-right: 50px;
+       margin-top: 5px;
+}
+
+
+#footer{
+	background-image:linear-gradient(grey,#1C1C1C);
+position:fixed;
+bottom:0;
+left:0;
+right:0;
+height:auto;
+}
+
+
+#img{
+float: right;
+       margin-right: 30px;
+}
+#menuBas{
+	padding-left:30%;
+}
+#colonnebas1{
+float:left;
+width: 200px;
+       margin-left: auto;
+       margin-right: auto;
+       margin-top: 20px;
+       padding-top: 5px;
+}
+#colonnebas2{
+float:left;
+width: 200px;
+       margin-left: auto;
+       margin-right: auto;
+       margin-top: 20px;
+       padding-top: 5px;
+
+}
+#colonnebas3{
+float:left;
+width: 200px;
+       margin-left: auto;
+       margin-right: auto;
+       margin-top: 20px;
+       padding-top: 5px;
+}
+
+a{
+color:white;
+      text-decoration: none;
+}
+a.header{
+	margin-left:5%;
+}
+a.menu{
+	margin-left:10%;
+	font-size:20px;
+}
+a.bottom{
+}
+img.boucher{
+height:133px;
+float:right;
+
+}
+img.jardinier{
+height:140px;
+float:right;
+
+}
+form
+{
+	font-size:20px;
+}
+
+
+
+#messageAccueil {
+	
+	text-align:left;
+	margin-top: 7%;
+	margin-left: 10px;
+	margin-right: 5px;
+	font-size: 30px;
+}
+

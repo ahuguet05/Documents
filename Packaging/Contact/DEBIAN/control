@@ -1,0 +1,8 @@
+Package:Contact
+Version:1.0
+Section:base
+Priority:optional
+Architecture:all
+Depends:bash,libqt4-sql,libqt4-sql-mysql,libqtgui4,libqtcore4,dbconfig-common
+Maintainer:Huguet<alexishuguet05@gmail.com>
+Description:Gestion des contacts

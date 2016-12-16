@@ -1,0 +1,10 @@
+insert into typeProd values (1,"Carotte",1);
+insert into typeProd values (2,"Porc",3);
+insert into typeProd values (3,"Truite",4);
+insert into typeProd values (4,"Pomme",2);
+insert into typeProd values (5,"Dorade",4);
+insert into typeProd values (6,"Courgette",1);
+insert into typeProd values (7,"Boeuf",3);
+insert into typeProd values (8,"Poire",2);
+insert into typeProd values (9,"Raisin",2);
+
