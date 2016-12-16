@@ -13,8 +13,11 @@ TEMPLATE = app
 
 
 SOURCES += main.cpp\
-        mainwindow.cpp
+        mainwindow.cpp \
+    dialoggestionnaire.cpp
 
-HEADERS  += mainwindow.h
+HEADERS  += mainwindow.h \
+    dialoggestionnaire.h
 
-FORMS    += mainwindow.ui
+FORMS    += mainwindow.ui \
+    dialoggestionnaire.ui
